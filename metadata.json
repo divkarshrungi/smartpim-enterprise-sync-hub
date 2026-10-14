@@ -1,0 +1,6 @@
+{
+  "name": "SmartPIM Enterprise Sync Hub",
+  "description": "Enterprise Product Information Management (PIM) and multi-channel synchronization hub with real-time discrepancy detection, automated channel reconciliation, and simulation diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
